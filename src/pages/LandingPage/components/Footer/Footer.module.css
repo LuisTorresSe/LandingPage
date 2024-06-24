@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1em;
+  margin-top: 2em;
+  padding: 2em 0px;
+  background-color: #1c1c4a;
+  color: white;
+  width: 100%;
+  font-size: medium;
+}
+
+.footer__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content__link {
+  color: white;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.content__title {
+  font-weight: bold;
+}
+
+@media (min-width: 740px) {
+  .footer {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .footer__content {
+    align-items: flex-start;
+  }
+}

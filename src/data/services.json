@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Punto de venta",
+        "description": "Nuestro sistema te ayudará a gestionar tu negocio, facilitando las ventas, compras y manteniendo un control de inventario excepcional. Tendrás todo el control de tu empresa en un solo lugar, pudiendo vender tanto de manera offline como online y desde cualquier dispositivo, ya sea celular, tablet o computadora.",
+        "imgSrc": "pos.jpg",
+        "imgAlt": "punto de venta",
+        "customClass": ""
+    },
+    {
+        "title": "Tienda Online",
+        "description": "Te ayudamos a crear el ecommerce de tu negocio, permitiéndote vender a cualquier persona en el territorio peruano y en el resto del mundo. Nuestro sistema incluye métodos de pago con tarjeta y podrás vincularlo con nuestro punto de venta",
+        "imgSrc": "ecommerce.png",
+        "imgAlt": "tienda online",
+        "customClass": "custom-position"
+    }
+]
